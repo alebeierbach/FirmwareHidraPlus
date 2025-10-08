@@ -1,0 +1,9 @@
+G1 E-5 F100    //muevo motor extrusor E1
+
+T0 elijo E1
+T1 elijo E2
+
+M84 APAGO MOTORES
+
+cuando selecciono el extrusor 2, y lo mando al home, quiere ir al home del E1
+cuando selecciono el extrusor 1 el extrusor 2 se vuelve a su posicion de origen MAL
